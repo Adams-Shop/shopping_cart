@@ -1,3 +1,10 @@
+[![Overall](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2FfP8t9AVhq_fIq6zzKz-24ett7aidNb10I5lkyj3wRl0)](https://app.opslevel.com/services/shopping_cart_service/maturity-report)
+[![Security](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2FfP8t9AVhq_fIq6zzKz-24ett7aidNb10I5lkyj3wRl0%2Fsecurity)](https://app.opslevel.com/services/shopping_cart_service/maturity-report)
+[![Reliability](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2FfP8t9AVhq_fIq6zzKz-24ett7aidNb10I5lkyj3wRl0%2Freliability)](https://app.opslevel.com/services/shopping_cart_service/maturity-report)
+[![Scalability](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2FfP8t9AVhq_fIq6zzKz-24ett7aidNb10I5lkyj3wRl0%2Fscalability)](https://app.opslevel.com/services/shopping_cart_service/maturity-report)
+[![Observability](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2FfP8t9AVhq_fIq6zzKz-24ett7aidNb10I5lkyj3wRl0%2Fobservability)](https://app.opslevel.com/services/shopping_cart_service/maturity-report)
+[![Quality](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2FfP8t9AVhq_fIq6zzKz-24ett7aidNb10I5lkyj3wRl0%2Fquality)](https://app.opslevel.com/services/shopping_cart_service/maturity-report)
+
 # Ruby on Rails Tutorial: sample application
 
 **This repository is not current or maintained. See [www.railstutorial.org/help](https://www.railstutorial.org/help) for the current version of the sample app.**
